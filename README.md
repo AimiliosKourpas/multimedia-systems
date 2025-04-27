@@ -92,31 +92,39 @@ Example of an input video and its encoded/decoded versions:
 
 
 **Encoded Video:**
-![Encoded Video](path_to_screenshot)
+
+![Screenshot 2025-04-27 at 4 03 38 PM](https://github.com/user-attachments/assets/d43d665d-67e8-49a1-a97c-c4564f9d1d0f)
 
 **Decoded Video:**
-![Decoded Video](path_to_screenshot)
+
+![Screenshot 2025-04-27 at 4 04 28 PM](https://github.com/user-attachments/assets/a8934c32-5b5f-466d-8b44-bd524ccfab93)
+
 
 ### Task 2: Motion Compensation for Video Compression
 Example of an input video and its encoded/decoded versions:
 
 **Original Video:**
-![Original Video](path_to_screenshot)
+
+![Screenshot 2025-04-27 at 8 29 25 PM](https://github.com/user-attachments/assets/48d44302-e632-4922-b2d8-0e530b36caee)
 
 **Encoded Video:**
-![Encoded Video](path_to_screenshot)
+
+![Screenshot 2025-04-27 at 8 29 44 PM](https://github.com/user-attachments/assets/276e7746-537a-41db-ab48-c901f7aa4284)
 
 **Decoded Video:**
-![Decoded Video](path_to_screenshot)
+
+![Screenshot 2025-04-27 at 8 30 01 PM](https://github.com/user-attachments/assets/5473290a-48d6-4ba9-818d-6ba5d6eb8ca6)
 
 ### Task 3: Object Removal from Video Using Motion Compensation
 Example of an input video with an object and the resulting video after object removal:
 
 **Before Object Removal:**
-![Before Object Removal](path_to_screenshot)
+
+![Screenshot 2025-04-27 at 8 30 21 PM](https://github.com/user-attachments/assets/fea9c515-adc0-4402-9811-4771b31f4a35)
 
 **After Object Removal:**
-![After Object Removal](path_to_screenshot)
+
+![Screenshot 2025-04-27 at 8 30 42 PM](https://github.com/user-attachments/assets/5e80d2f7-781f-40d9-b4af-5c6e440b059a)
 
 ## Bibliography
 
@@ -128,4 +136,3 @@ Example of an input video with an object and the resulting video after object re
 ## License
 
 This project is licensed under the MIT License.
-```
