@@ -1,7 +1,5 @@
 # multimedia-systems
 
-Sure! Here's the README in a format you can copy and paste:
-
 # Video Compression and Object Removal using Motion Compensation
 
 ## Overview
